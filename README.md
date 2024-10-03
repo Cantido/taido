@@ -52,7 +52,7 @@ defmodule SpaceshipBehaviors do
 end
 ```
 
-The evaluate the tree like this:
+Then evaluate the tree like this:
 
 ```elixir
 state = %{ship: Spaceships.new()}
